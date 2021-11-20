@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapDataFriendParser", "SnapDataFriendParser\SnapDataFriendParser.csproj", "{E249301E-88B5-4675-A0D6-EF76300B4F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E249301E-88B5-4675-A0D6-EF76300B4F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E249301E-88B5-4675-A0D6-EF76300B4F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E249301E-88B5-4675-A0D6-EF76300B4F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E249301E-88B5-4675-A0D6-EF76300B4F93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {895A027D-EB9F-442A-8EF3-CB98732A3DC6}
+	EndGlobalSection
+EndGlobal
